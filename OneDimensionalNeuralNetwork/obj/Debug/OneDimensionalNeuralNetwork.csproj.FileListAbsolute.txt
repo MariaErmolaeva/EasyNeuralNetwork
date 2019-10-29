@@ -1,0 +1,6 @@
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\bin\Debug\OneDimensionalNeuralNetwork.exe.config
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\bin\Debug\OneDimensionalNeuralNetwork.exe
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\bin\Debug\OneDimensionalNeuralNetwork.pdb
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\obj\Debug\OneDimensionalNeuralNetwork.csprojAssemblyReference.cache
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\obj\Debug\OneDimensionalNeuralNetwork.exe
+L:\Новая папка (2)\network\OneDimensionalNeuralNetwork\OneDimensionalNeuralNetwork\obj\Debug\OneDimensionalNeuralNetwork.pdb
